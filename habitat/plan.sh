@@ -14,7 +14,7 @@
 # test commit 
 
 pkg_name=sample-node-app
-pkg_origin=thirumoorthir-habitat-test-nodejs 
+pkg_origin=demo2
 pkg_version="1.1.0"
 pkg_deps=(core/node)
 
